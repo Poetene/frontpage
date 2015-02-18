@@ -1,0 +1,12 @@
+body {
+  font-family: arial, sans-serif;
+  background: #5cba91;
+  color: white;
+  text-align: center;
+}
+
+a {
+  color: white;
+  font-size: 1.5em;
+  margin: 0 20px;
+}
